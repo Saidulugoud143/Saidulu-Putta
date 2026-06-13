@@ -204,7 +204,7 @@ public class SaidiluPutta extends LeadEngineer {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/saiduluputta">
+<!-- <a href="https://www.linkedin.com/in/saiduluputta">
   <img src="https://img.shields.io/badge/LinkedIn-Saidulu%20Putta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -226,7 +226,7 @@ public class SaidiluPutta extends LeadEngineer {
 &nbsp;
 <a href="mailto:saiduluputta@gmail.com">
   <img src="https://img.shields.io/badge/Email-saiduluputta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a> -->
 
 <br/><br/>
 
